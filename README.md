@@ -57,4 +57,4 @@ Your Flask application is now available at `http://localhost:3000`.
 
 ## One-Click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FSanxRoz%2Fask&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=just-ask&framework=other&totalProjects=1&remainingProjects=1)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FSanxRoz%2Fjust-code&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=just-code&framework=other&totalProjects=1&remainingProjects=1)
