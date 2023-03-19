@@ -29,7 +29,7 @@ To modify your prompt or API go to `api/index.py`.
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/SanxRoz/ask.git
+git clone https://github.com/SanxRoz/just-code.git
 ```
 
 **2. Install Dependencies**
